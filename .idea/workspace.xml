@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e90e801-c119-4251-a76f-24728f4cd660" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Linked/src/com/gczx/juc/Foo1114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linked/src/com/gczx/juc/FooBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linked/src/com/gczx/zzs/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linked/src/com/gczx/zzs/Reversed206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linked/src/com/gczx/zzs/Reversed92.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,11 +49,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Linked/src/com/gczx/juc/Foo1114.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="990">
               <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Linked/src/com/gczx/juc/Foo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,13 +123,7 @@
         <option value="$PROJECT_DIR$/Linked/src/com/gczx/zzs/Reversed92.java" />
         <option value="$PROJECT_DIR$/Linked/src/com/gczx/juc/FooBar.java" />
         <option value="$PROJECT_DIR$/Linked/src/com/gczx/juc/Foo1114.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/Linked/Linked.iml" />
+        <option value="$PROJECT_DIR$/Linked/src/com/gczx/juc/Foo.java" />
       </list>
     </option>
   </component>
@@ -171,6 +174,14 @@
               <item name="gczx" type="462c0819:PsiDirectoryNode" />
               <item name="juc" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="NewLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Linked" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gczx" type="462c0819:PsiDirectoryNode" />
+              <item name="zzs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -181,6 +192,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -231,12 +243,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576657723711</updated>
-      <workItem from="1576657725303" duration="8486000" />
+      <workItem from="1576657725303" duration="9597000" />
     </task>
+    <task id="LOCAL-00001" summary="增加了的文件，来验证自己的猜想">
+      <created>1576670991960</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576670991961</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8486000" />
+    <option name="totallyTimeSpent" value="9597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -245,17 +265,17 @@
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980111" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980111" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5003978" side_tool="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960223" weight="0.32960895" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -272,6 +292,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加了的文件，来验证自己的猜想" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加了的文件，来验证自己的猜想" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Linked/src/com/gczx/zzs/LinkNode.java">
@@ -341,6 +365,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
           <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked/src/com/gczx/juc/Foo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
