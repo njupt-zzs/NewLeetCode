@@ -1,0 +1,2 @@
+# NewLeetCode
+Do  Myself!
