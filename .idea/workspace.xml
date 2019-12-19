@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e90e801-c119-4251-a76f-24728f4cd660" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Linked/src/com/gczx/juc/ZeroEvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linked/src/com/gczx/string/LongestSubstring003.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Linked/com/gczx/juc/Foo1114.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Linked/com/gczx/juc/Foo1114.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Linked/com/gczx/juc/FooBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Linked/com/gczx/juc/FooBar.class" afterDir="false" />
@@ -48,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Linked/src/com/gczx/juc/ZeroEvenOdd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="55" column="6" lean-forward="true" selection-start-line="55" selection-start-column="6" selection-end-line="61" selection-end-column="23" />
+            <state relative-caret-position="660">
+              <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#151#152#0" expanded="true" />
@@ -287,7 +285,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576657723711</updated>
       <workItem from="1576657725303" duration="10288000" />
-      <workItem from="1576716567130" duration="6297000" />
+      <workItem from="1576716567130" duration="6562000" />
     </task>
     <task id="LOCAL-00001" summary="增加了的文件，来验证自己的猜想">
       <created>1576670991960</created>
@@ -303,15 +301,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576671072541</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="增加了的文件，来验证自己的猜想">
+      <created>1576723406742</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576723406742</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16585000" />
+    <option name="totallyTimeSpent" value="16850000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49880952" visible="true" weight="0.25179" />
       <window_info id="Structure" order="1" sideWeight="0.5011905" side_tool="true" weight="0.25179" />
@@ -499,8 +503,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Linked/src/com/gczx/juc/ZeroEvenOdd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="55" column="6" lean-forward="true" selection-start-line="55" selection-start-column="6" selection-end-line="61" selection-end-column="23" />
+        <state relative-caret-position="660">
+          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#151#152#0" expanded="true" />
