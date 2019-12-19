@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e90e801-c119-4251-a76f-24728f4cd660" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Linked/src/com/gczx/juc/H2O.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Linked/com/gczx/juc/Foo1114.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Linked/com/gczx/juc/Foo1114.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Linked/com/gczx/juc/FooBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Linked/com/gczx/juc/FooBar.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,15 +42,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Linked/src/com/gczx/juc/ZeroEvenOdd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
+            <state relative-caret-position="-213">
               <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#151#152#0" expanded="true" />
                 <element signature="e#177#178#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Linked/src/com/gczx/juc/H2O.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -124,6 +135,7 @@
         <option value="$PROJECT_DIR$/Linked/src/com/gczx/juc/Foo001.java" />
         <option value="$PROJECT_DIR$/Linked/src/com/gczx/string/LongestSubstring003.java" />
         <option value="$PROJECT_DIR$/Linked/src/com/gczx/juc/ZeroEvenOdd.java" />
+        <option value="$PROJECT_DIR$/Linked/src/com/gczx/juc/H2O.java" />
       </list>
     </option>
   </component>
@@ -222,9 +234,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ZeroEvenOdd">
+  <component name="RunManager" selected="Application.H2O">
     <configuration name="FooBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gczx.juc.FooBar" />
+      <module name="Linked" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gczx.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="H2O" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gczx.juc.H2O" />
       <module name="Linked" />
       <extension name="coverage">
         <pattern>
@@ -264,6 +289,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.H2O" />
         <item itemvalue="Application.ZeroEvenOdd" />
         <item itemvalue="Application.LongestSubstring003" />
         <item itemvalue="Application.FooBar" />
@@ -285,7 +311,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576657723711</updated>
       <workItem from="1576657725303" duration="10288000" />
-      <workItem from="1576716567130" duration="6562000" />
+      <workItem from="1576716567130" duration="7845000" />
     </task>
     <task id="LOCAL-00001" summary="增加了的文件，来验证自己的猜想">
       <created>1576670991960</created>
@@ -308,14 +334,22 @@
       <option name="project" value="LOCAL" />
       <updated>1576723406742</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="增加了的文件，来验证自己的猜想">
+      <created>1576723420738</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576723420738</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16850000" />
+    <option name="totallyTimeSpent" value="18133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49880952" visible="true" weight="0.25179" />
       <window_info id="Structure" order="1" sideWeight="0.5011905" side_tool="true" weight="0.25179" />
@@ -503,12 +537,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Linked/src/com/gczx/juc/ZeroEvenOdd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
+        <state relative-caret-position="-213">
           <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#151#152#0" expanded="true" />
             <element signature="e#177#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked/src/com/gczx/juc/H2O.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
